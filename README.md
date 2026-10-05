@@ -8,10 +8,6 @@ I hope reading them helps you notice assumptions, ask better questions, and unde
 
 ## How to read
 
-The [Claude History](<Claude History/>) folder contains 51 essays in Word (`.docx`) format. Each filename starts with a date and a descriptive title, so you can browse for a topic that interests you or read them in date order. Download a file and open it in Microsoft Word, Google Docs, or another app that reads Word documents.
-
-The collection includes topics such as Japan’s system of alternate attendance, the sale of Alaska, the eradication of smallpox, and the Chinese Rites Controversy. Many essays include sources for further reading.
-
-These are learning materials, not the final word on any event. AI can make mistakes, and an interpretation can miss important context. Follow the cited sources, check claims that matter to you, and draw your own conclusions.
+The folder contains 51 essays in Word (`.docx`) format. Each filename starts with a date and a descriptive title, so you can browse for a topic that interests you or read them in date order. Download a file and open it in Microsoft Word, Google Docs, or another app that reads Word documents.
 
 — John
