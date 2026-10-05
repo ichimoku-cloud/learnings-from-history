@@ -4,7 +4,7 @@ I’m sharing this collection because history helps me think more carefully abou
 
 These are my history reading notes and essays, developed with the help of Claude. They explore decisions in government, science, trade, technology, and everyday life. Some revisit the same event from a different angle; I’ve kept them together as part of the learning process.
 
-I hope reading them helps you notice assumptions, ask better questions, and understand how incentives and institutions shape what happens. You don’t have to agree with every interpretation to find something useful here. Sometimes the most valuable part is a question that stays with you afterward.
+I hope reading them helps you notice assumptions, ask better questions, and understand how incentives and institutions shape what happens. 
 
 ## How to read
 
