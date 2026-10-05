@@ -1,4 +1,4 @@
-# Learning from History
+# Learnings from History
 
 I’m sharing this collection because history helps me think more carefully about the decisions we make today. I’m interested in what people knew at the time, the pressures they faced, and why a choice that seemed reasonable could still lead to an unexpected result.
 
