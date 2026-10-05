@@ -1,8 +1,8 @@
 # Learnings from History
 
-I’m sharing this collection because history helps me think more carefully about the decisions we make today. I’m interested in what people knew at the time, the pressures they faced, and why a choice that seemed reasonable could still lead to an unexpected result.
+I’m sharing this collection because history helps me think more carefully about the decisions we make today. 
 
-These are my history reading notes and essays, developed with the help of Claude. They explore decisions in government, science, trade, technology, and everyday life. Some revisit the same event from a different angle; I’ve kept them together as part of the learning process.
+They explore decisions in government, science, trade, technology, and everyday life. Some revisit the same event from a different angle; I’ve kept them together as part of the learning process.
 
 I hope reading them helps you notice assumptions, ask better questions, and understand how incentives and institutions shape what happens. 
 
