@@ -8,6 +8,6 @@ I hope reading them helps you notice assumptions, ask better questions, and unde
 
 ## How to read
 
-The folder contains 51 essays in Word (`.docx`) format. Each filename starts with a date and a descriptive title, so you can browse for a topic that interests you or read them in date order. Download a file and open it in Microsoft Word, Google Docs, or another app that reads Word documents.
+The [past-experiences](past-experiences/) folder contains 51 essays in Word (`.docx`) format. Each filename starts with a date and a descriptive title, so you can browse for a topic that interests you or read them in date order. Download a file and open it in Microsoft Word, Google Docs, or another app that reads Word documents.
 
 — John
